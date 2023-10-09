@@ -48,17 +48,13 @@ def ensemble_loss(outputs, targets, device):
 
 def main():
     root_dir = '/kaggle/input/dataset/upload'
-    # root_dir = '../datasets/WCEBleedGen'
-    # val_dir = '/content/drive/MyDrive/Challenge_bleed/Test Dataset 1'
 
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
     num_models= 5
     dataset = WCEClassDataset(root_dir=root_dir, num_models=num_models) # loading the training Dataset
-    # val_dataset = WCEValDataset(root_dir=val_dir, num_models=num_models ) # loading the test Dataset
 
     # number of epochs
     num_epochs = 50
-
 
     batch_size = 16
     validation_split = .2
@@ -66,7 +62,6 @@ def main():
     random_seed= 42
 
     save_dir = '/kaggle/working/'
-    # save_dir = './checkpoints'
 
     model_name = 'WCE_class'
 
@@ -78,8 +73,6 @@ def main():
         np.random.seed(random_seed)
         np.random.shuffle(indices)
     train_indices, val_indices = indices[split:], indices[:split]
-
-#     val_indices= list(range(len(val_dataset)))
 
     # Creating PT data samplers and loaders:
     rotation_degrees = [30, 60, 90, 120, 150, 180, 210, 240, 270, 300]
