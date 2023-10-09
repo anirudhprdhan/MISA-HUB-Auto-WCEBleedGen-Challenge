@@ -76,6 +76,11 @@
 ![A0286](https://github.com/anirudhprdhan/new/assets/61653573/1b2b9c69-821f-458f-b071-33298013fe00)
 ![A0134](https://github.com/anirudhprdhan/new/assets/61653573/85db1f12-9edc-430c-b2ad-d6169a05c246)
 
+## About the model
+The Classification model uses an Ensemble of 3 models, VGG16, MobileNet and ResNet18. Pytorch pretrained models are used without the weights. 
 
+In order to load the data, data augmentation has been used randomly across the training images. Transforms such as Rotations have been used. 
+
+The model also uses HSV color frame in order to train the data.
 
 
