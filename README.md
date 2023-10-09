@@ -18,29 +18,28 @@
 
 
 ## 2.10 Best images selected from the validation dataset showing its classification and detection
-![img- (460)](https://github.com/anirudhprdhan/new/assets/61653573/dc80f5f7-f75d-4961-a2b6-e267ffc4c7d2)
-![img- (207)](https://github.com/anirudhprdhan/new/assets/61653573/8bfe138c-4020-40a0-8410-315cde6e9c0f)
-![img- (181)](https://github.com/anirudhprdhan/new/assets/61653573/d2ae3411-f6e1-4efb-8f56-122bcf5ff506)
-![img- (157)](https://github.com/anirudhprdhan/new/assets/61653573/cee33ecb-24ac-4331-98eb-87195adde31e)
-![img- (155)](https://github.com/anirudhprdhan/new/assets/61653573/84b58b6b-1d56-4eeb-bcba-7e49e167e310)
-![img- (154)](https://github.com/anirudhprdhan/new/assets/61653573/7ad6b101-7e26-40db-bc17-9a07d3cabf02)
-![img- (131)](https://github.com/anirudhprdhan/new/assets/61653573/9ed92802-5c0a-4e5f-9c25-ce8fbe0f19e9)
-![img- (99)](https://github.com/anirudhprdhan/new/assets/61653573/344993af-e396-4b79-b989-e9f13952defa)
-![img- (59)](https://github.com/anirudhprdhan/new/assets/61653573/c7a8d9d2-05f4-431a-b4fc-464ff1cea163)
-![img- (44)](https://github.com/anirudhprdhan/new/assets/61653573/1ddaa55d-4860-483c-bf33-ab39ad9a640b)
+![img- (460)](https://github.com/anirudhprdhan/MISA-HUB-Auto-WCEBleedGen-Challenge/assets/61653573/4bc01a28-5b1d-4881-953a-0c7b5fbc7ae4)
+![img- (207)](https://github.com/anirudhprdhan/MISA-HUB-Auto-WCEBleedGen-Challenge/assets/61653573/e396f8a4-fa0d-4cf0-bee5-5c3f18f90223)
+![img- (181)](https://github.com/anirudhprdhan/MISA-HUB-Auto-WCEBleedGen-Challenge/assets/61653573/51c6d0ad-4a14-49da-8450-a515d8cfa73b)
+![img- (157)](https://github.com/anirudhprdhan/MISA-HUB-Auto-WCEBleedGen-Challenge/assets/61653573/10d6aeac-8cb0-46d6-95f8-04c198ab46dc)
+![img- (155)](https://github.com/anirudhprdhan/MISA-HUB-Auto-WCEBleedGen-Challenge/assets/61653573/49795fe9-a6b6-4ace-a97a-6b2a79f6af80)
+![img- (154)](https://github.com/anirudhprdhan/MISA-HUB-Auto-WCEBleedGen-Challenge/assets/61653573/27616227-48e9-44f0-86ea-e32a3c24ca8a)
+![img- (131)](https://github.com/anirudhprdhan/MISA-HUB-Auto-WCEBleedGen-Challenge/assets/61653573/a5198b39-7d88-452e-ba8f-1d86d6d0984a)
+![img- (99)](https://github.com/anirudhprdhan/MISA-HUB-Auto-WCEBleedGen-Challenge/assets/61653573/43cabaef-6bec-4594-9ba6-829e1a94a849)
+![img- (59)](https://github.com/anirudhprdhan/MISA-HUB-Auto-WCEBleedGen-Challenge/assets/61653573/43841a5b-542a-4ad1-9b50-f31c84fa169c)
+![img- (44)](https://github.com/anirudhprdhan/MISA-HUB-Auto-WCEBleedGen-Challenge/assets/61653573/d7484bb9-2041-4c1d-903e-849280a425a1)
 
 ## 3.Images of the achieved interpretability plot of 10 best images selected from the validation dataset.
-
-![img- (1308)](https://github.com/anirudhprdhan/new/assets/61653573/3829f178-8893-4fa9-afec-2e0f3c693e00)
-![img- (1256)](https://github.com/anirudhprdhan/new/assets/61653573/898f71bb-98e2-40cd-8d6a-d1ce92decbfc)
-![img- (1252)](https://github.com/anirudhprdhan/new/assets/61653573/e7ee18dd-7c17-49e7-b64c-0d5a5e69cda8)
-![img- (1243)](https://github.com/anirudhprdhan/new/assets/61653573/84c75da6-9609-4a42-91c6-0b2b642fe2dd)
-![img- (1239)](https://github.com/anirudhprdhan/new/assets/61653573/6721fbc2-fbb7-4b61-8016-1e1a8a46e1f0)
-![img- (161)](https://github.com/anirudhprdhan/new/assets/61653573/3eaa602b-1741-46bd-9671-6c9447e19fe6)
-![img- (158)](https://github.com/anirudhprdhan/new/assets/61653573/cef7163a-b764-4c7a-a651-d06828324684)
-![img- (157)](https://github.com/anirudhprdhan/new/assets/61653573/e9be1ac6-bb08-452f-b8a8-ec5df52d271c)
-![img- (155)](https://github.com/anirudhprdhan/new/assets/61653573/c045081c-8d7a-48c7-81b4-d9fa4065b917)
-![img- (147)](https://github.com/anirudhprdhan/new/assets/61653573/7b6d3a45-9994-434a-af3b-996eeb99ff68)
+![img- (1308)](https://github.com/anirudhprdhan/MISA-HUB-Auto-WCEBleedGen-Challenge/assets/61653573/d50aaa4a-dd2f-4802-91c9-5a331da71452)
+![img- (1256)](https://github.com/anirudhprdhan/MISA-HUB-Auto-WCEBleedGen-Challenge/assets/61653573/af173df2-d3fc-4ba7-a352-1bb885a883ff)
+![img- (1252)](https://github.com/anirudhprdhan/MISA-HUB-Auto-WCEBleedGen-Challenge/assets/61653573/929f5196-ce2e-42b7-b9a6-5b39f1a3d53b)
+![img- (1243)](https://github.com/anirudhprdhan/MISA-HUB-Auto-WCEBleedGen-Challenge/assets/61653573/ab409b73-ce4d-4574-befa-af3fbebcb115)
+![img- (1239)](https://github.com/anirudhprdhan/MISA-HUB-Auto-WCEBleedGen-Challenge/assets/61653573/55ae72d0-3cd6-4572-bc20-dc68dff702c2)
+![img- (161)](https://github.com/anirudhprdhan/MISA-HUB-Auto-WCEBleedGen-Challenge/assets/61653573/0ade2644-ea5e-4b00-aeb7-86756614bc60)
+![img- (158)](https://github.com/anirudhprdhan/MISA-HUB-Auto-WCEBleedGen-Challenge/assets/61653573/359f9181-ff0a-4234-ba7b-5a35c4cf395c)
+![img- (157)](https://github.com/anirudhprdhan/MISA-HUB-Auto-WCEBleedGen-Challenge/assets/61653573/53d8531e-d71b-4af4-a870-fecbd9a34b53)
+![img- (155)](https://github.com/anirudhprdhan/MISA-HUB-Auto-WCEBleedGen-Challenge/assets/61653573/77bcc1f2-26dd-40eb-85fd-bba089520154)
+![img- (147)](https://github.com/anirudhprdhan/MISA-HUB-Auto-WCEBleedGen-Challenge/assets/61653573/fc42e163-31ed-412a-9206-2f95cacf0dd2)
 
 
  ## 4.Images of any 5 best images selected from testing datasets 1
