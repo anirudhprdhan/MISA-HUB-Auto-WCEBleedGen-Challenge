@@ -120,11 +120,6 @@ def test(model, test_dir):
 
     label_to_name = {1: 'bleeding', 0: 'non-bleeding'}
 
-    """ majority_conf_probabilities = [f'{cp:.2f}' for cp in majority_conf_probabilities]
-    majority_predictions_named = [label_to_name[int(p)] for p in majority_predictions]
-    print("Predictions:", majority_predictions_named)
-    print("confidence probs:", majority_conf_probabilities)"""
-
     precision = precision_score(ground_truth, majority_predictions)
     recall = recall_score(ground_truth, majority_predictions)
     f1 = f1_score(ground_truth, majority_predictions)
@@ -132,7 +127,6 @@ def test(model, test_dir):
     ## get the excel file for the images and their predictions
     df = pd.DataFrame({'ImageID': image_files, 'PredictedLabel': majority_predictions})
     df.to_excel('Test_set2.xlsx', index=False)
-
 
 
     print("Classification Metrics based on majority voting:")
