@@ -83,4 +83,8 @@ In order to load the data, data augmentation has been used randomly across the t
 
 The model also uses HSV color frame in order to train the data.
 
+The Detection model that has been used is the YOLO V8 and bounding boxes have been thus overlayed on top of the images. 
+
+Confidence has been calculated and has been overlayed on the image along with the bounding boxes.
+
 
