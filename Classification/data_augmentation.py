@@ -44,18 +44,6 @@ class WCEImageTransforms:
 
         # Randomly decide whether to convert to YCbCr
         should_convert = random.choice([True, False])
-        # if should_convert:
-        #     # Convert to YCbCr color space
-        #     img = np.array(img.convert('YCbCr'))
-
-        #     # Choose a random scaling
-        #     random_scaling_factor = random.random()
-
-        #     # Apply the scaling factor to the Y channel
-        #     img[:, :, 0] = (img[:, :, 0] * random_scaling_factor).clip(0, 255).astype(np.uint8)
-
-        #     # Convert the modified YCbCr image back to RGB
-        #     img = Image.fromarray(img, mode='YCbCr').convert('RGB')
 
         if should_convert:
             # Convert the image to the HSV color space
@@ -72,21 +60,6 @@ class WCEImageTransforms:
 
             # Convert the modified HSV image back to RGB
             img = Image.fromarray(img_array, mode='HSV').convert('RGB')
-
-        # # Randomly decide whether to apply Gaussian blur
-        # should_blur = random.choice([True, False])
-        # if should_blur:
-        #     # Randomly select blur parameters (w, sigma) from the set
-        #     random_w, random_sigma = random.choice(self.blur_parameters)
-
-        #     # Apply Gaussian blur to the image
-        #     img = img.filter(ImageFilter.GaussianBlur(radius=random_sigma))
-
-        # # Randomly decide whether to add Poisson noise
-        # should_add_poisson_noise = random.choice([True, False])
-        # if should_add_poisson_noise:
-        #     # Apply Poisson noise to the image
-        #     img = self.apply_poisson_noise(img)
 
         # Convert the PIL image to a PyTorch tensor
         trans = transforms.Compose([transforms.Resize((224, 224)), transforms.ToTensor()])
