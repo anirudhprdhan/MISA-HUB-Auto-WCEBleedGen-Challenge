@@ -120,8 +120,3 @@ def train(model, train_loader, val_loader, optimizer, lr_scheduler, criterion, d
             torch.save(model.state_dict(), checkpoint_path)
 
     print(f'Best model found at epoch {best_epoch + 1} with validation accuracy of {best_val_acc / total_val * 100:.2f}%')
-
-# Example usage:
-# Define your model, train_loader, val_loader, optimizer, lr_scheduler, criterion, device, num_epochs, save_dir, and model_name
-# train(model, train_loader, val_loader, optimizer, lr_scheduler, criterion, device, num_epochs, save_dir, model_name)
-
